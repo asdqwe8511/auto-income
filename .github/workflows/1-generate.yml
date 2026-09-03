@@ -1,0 +1,30 @@
+# 매일 아침 6시 40분(한국시간): 오늘 올릴 글을 전부 만들어 큐에 넣는다.
+name: 1. 오늘의 글 만들기
+
+on:
+  schedule:
+    - cron: "40 21 * * *"   # UTC 21:40 = 한국시간 06:40
+  workflow_dispatch:         # 버튼으로 직접 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 글 생성
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/generate.py
+      - name: 저장
+        run: bash scripts/save_state.sh "generate"

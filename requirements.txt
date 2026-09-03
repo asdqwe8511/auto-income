@@ -1,0 +1,9 @@
+anthropic>=1.0.0
+requests>=2.32.0
+requests-oauthlib>=2.0.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.2
+Pillow>=11.0.0
+
+# (선택) 사진 속 한글 검출 정확도를 높이려면:  pip install easyocr
+# 안 깔면 Gemini 비전으로 대신 검출합니다.

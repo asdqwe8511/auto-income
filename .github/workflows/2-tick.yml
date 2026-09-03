@@ -1,0 +1,46 @@
+# 10분마다: 텔레그램 버튼 처리 + 알림 발송 + 자동승인 + 예약 발행
+name: 2. 심장박동 (10분마다)
+
+on:
+  schedule:
+    - cron: "5-59/10 21-23 * * *"   # 한국시간 06:05 ~ 08:55
+    - cron: "5-59/10 0-14 * * *"    # 한국시간 09:05 ~ 23:55
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-income-tick
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: 한글 폰트와 영상 도구 설치
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-nanum ffmpeg
+          fc-cache -f >/dev/null 2>&1 || true
+      - run: pip install -r requirements.txt
+      - name: 알림/승인/발행 처리
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python src/tick.py
+      - name: 저장
+        run: bash scripts/save_state.sh "tick"

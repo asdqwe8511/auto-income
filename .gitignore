@@ -1,0 +1,19 @@
+# 비밀키 — 절대 올라가면 안 됨
+.env
+.env.local
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+
+# 봇 실행 표시 파일
+data/watch.lock
+
+# 블로그봇이 받은 개인 사진 — 공개 저장소에 올리면 안 됨
+data/blog/
+
+# 임시 결과물
+_*.png
+_*.jpg
+_*.mp4

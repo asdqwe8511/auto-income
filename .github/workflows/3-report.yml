@@ -1,0 +1,26 @@
+# 매일 밤 11시(한국시간): 하루 요약을 텔레그램으로 보낸다.
+name: 3. 밤 11시 마감 보고
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # UTC 14:00 = 한국시간 23:00
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 마감 보고
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python src/report.py
