@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T10:20:36+09:00",
+  "updated_at": "2026-09-04T12:14:38+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -440,18 +440,21 @@
       "source_title": null,
       "topic": "금요일 오후의 집중력",
       "text": "금요일 오후 4시의 집중력은\n\n챗gpt 서버가 터졌을 때보다\n훨씬 더 완벽하게 먹통이 된다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-04T06:47:03+09:00",
       "notify_at": "2026-09-04T12:00:00+09:00",
       "publish_at": "2026-09-04T12:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-04T12:14:35+09:00",
+      "auto_approve_at": "2026-09-04T15:14:34+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 117,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAN1apo3m4TqkqxQaRxqkFnNomU-lOsAAtcXaxsCkNFUNnrBa67Y-S8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-04-x-lunch-2",
@@ -466,18 +469,21 @@
       "source_title": "교황 오는 서울, 40만명 어디서 자고 씻나···침낭·빨랫줄·동네 목욕탕까지 ‘총동원’",
       "topic": "교황 방문과 수용 대책",
       "text": "경향신문에 따르면 교황 방문으로\n서울에 40만 명이 몰릴 예정이라고 한다.\n\n침낭과 동네 목욕탕까지 총동원해서\n숙박을 준비하는 모습이다.\n행사 당일 도심 출근길이 살짝 걱정된다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-04T06:47:03+09:00",
       "notify_at": "2026-09-04T12:00:00+09:00",
       "publish_at": "2026-09-04T12:25:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-04T12:14:37+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 118,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAN2apo3nDx_d3ubM7hGcDVeRFxVW84AAtgXaxsCkNFUxKIJc2SMnf4BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-04-x-lunch-3",
@@ -492,18 +498,21 @@
       "source_title": "갤럭시S27 울트라·프로, 카메라 가로로 바뀐다…어떤 모양?",
       "topic": "갤럭시 신제품 카메라 디자인",
       "text": "지디넷코리아 글을 보니\n차기 갤럭시 카메라 배치가\n가로 형태로 바뀔 수 있다고 한다.\n\n늘 보던 세로 형태에서 벗어나면\n실물 느낌이 제법 다를 듯하다.\n결국 눈에 익으면 또 적응하겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-04T06:47:03+09:00",
       "notify_at": "2026-09-04T12:00:00+09:00",
       "publish_at": "2026-09-04T12:50:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-04T12:14:38+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 119,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAN3apo3nrzG9ZUnB25k45OTq4OuNNUAAtkXaxsCkNFUIEqKsxDjjYQBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-04-x-evening-1",
