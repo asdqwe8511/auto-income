@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:14:27+09:00",
+  "updated_at": "2026-09-05T15:17:49+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -730,15 +730,15 @@
       "source_title": null,
       "topic": "경조사비와 통장 잔고",
       "text": "청첩장을 받으면 축하 인사보다\n통장 잔고를 먼저 확인하게 된다.\n\n남의 경사만 챙기다가\n내 잔고는 이미 비상사태다.",
-      "status": "notified",
+      "status": "published",
       "created_at": "2026-09-05T06:47:16+09:00",
       "notify_at": "2026-09-05T12:00:00+09:00",
       "publish_at": "2026-09-05T12:00:00+09:00",
       "notified_at": "2026-09-05T12:14:24+09:00",
       "auto_approve_at": "2026-09-05T15:14:23+09:00",
-      "approved_at": null,
-      "published_at": null,
-      "post_url": null,
+      "approved_at": "2026-09-05T15:17:47+09:00",
+      "published_at": "2026-09-05T15:17:49+09:00",
+      "post_url": "(직접 올림)",
       "retry": 0,
       "error": null,
       "tg_message_id": 128,
