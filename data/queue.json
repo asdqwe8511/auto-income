@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:22:58+09:00",
+  "updated_at": "2026-09-06T12:14:31+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -1020,18 +1020,21 @@
       "source_title": null,
       "topic": "연차 쓰기 직전의 눈치",
       "text": "연차 결재 버튼 누르기 직전이\n회사 다니며 가장 눈치 보이는 순간이다.\n\n내 정당한 권리를 쓰는데\n왜 죄짓는 기분이 드는지 모르겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-06T06:43:01+09:00",
       "notify_at": "2026-09-06T12:00:00+09:00",
       "publish_at": "2026-09-06T12:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-06T12:14:28+09:00",
+      "auto_approve_at": "2026-09-06T15:14:27+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 139,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOLapzalNvXoVmVhPSGquSlhrkTqRsAAncRaxvVNOlUSRxqMxHE5Y8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-06-x-lunch-2",
@@ -1046,18 +1049,21 @@
       "source_title": "한국인들 “다시는 안 간다”더니…요새 다시 북적인다는 스타벅스, 결제액 두 달째 반등",
       "topic": "스타벅스 결제액 반등 소식",
       "text": "다시 안 간다더니 북적인다는 스타벅스 결제액이\n두 달 연속 반등했다는 서울경제 보도가 나왔다.\n\n결국 익숙한 공간과 맛을 대체하는 게\n생각보다 쉽지 않은 모양이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-06T06:43:01+09:00",
       "notify_at": "2026-09-06T12:00:00+09:00",
       "publish_at": "2026-09-06T12:25:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-06T12:14:30+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 140,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOMapzalnqgiuSTUXKt2cQVxD_9PQcAAngRaxvVNOlUXOIMoCy8kigBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-06-x-lunch-3",
@@ -1072,18 +1078,21 @@
       "source_title": "집 구경하는데 수고비 받겠다?...임장비 당신 생각은?",
       "topic": "집 구경 수고비 임장비 논란",
       "text": "집 구경시켜 줄 때 수고비를 받겠다는 임장비 논쟁을\nSBS Biz 뉴스에서 다루고 있다.\n\n집 하나 둘러보는 것도 다 비용으로 치는 시대라니\n듣고도 선뜻 적응하기 어렵다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-06T06:43:01+09:00",
       "notify_at": "2026-09-06T12:00:00+09:00",
       "publish_at": "2026-09-06T12:50:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-06T12:14:31+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 141,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAONapzal3_T8F-U1T2Qxy9XDfG91IAAAnkRaxvVNOlUQUy3iiFK5JcBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-06-x-evening-1",
