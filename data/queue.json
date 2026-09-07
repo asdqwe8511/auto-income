@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:26:54+09:00",
+  "updated_at": "2026-09-07T20:15:08+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -1397,18 +1397,21 @@
       "source_title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "topic": "보유세 부담 줄이는 공시가격 의견 제출 활용법",
       "text": "주택 보유 세금 부담을 조금이라도 덜려면\n공시가격 열람 기간에 의견 제출을 활용해야 한다.\n\n부동산 공시가격 알리미 사이트에서\n시세 대비 높게 책정됐는지 확인하고\n\n이의 신청이나 의견 제출을 미리 해두면\n매년 나가는 보유세 부담을 막을 수 있다.\n\n공시가격 발표 직후 열람 기간을 놓치지 말자.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-07T06:43:10+09:00",
       "notify_at": "2026-09-07T20:00:00+09:00",
       "publish_at": "2026-09-07T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-07T20:15:05+09:00",
+      "auto_approve_at": "2026-09-07T23:15:04+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 153,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOZap6cuThyKVaMmjPJ4KBaMMQYXDsAArYVaxsKF_hUslEgrNaekq8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-07-x-evening-2",
@@ -1423,18 +1426,21 @@
       "source_title": null,
       "topic": "출근의 자조",
       "text": "오늘도 내 죄목은 무단출근이다.\n\n아무도 오라고 강요한 적 없는데\n발걸음이 알아서 회사로 가고 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-07T06:43:10+09:00",
       "notify_at": "2026-09-07T20:00:00+09:00",
       "publish_at": "2026-09-07T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-07T20:15:06+09:00",
+      "auto_approve_at": "2026-09-07T23:15:05+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 154,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOaap6cuo40cD-VM-JL5m05J61YJWsAArcVaxsKF_hUWxvaIxRkvbwBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-07-x-evening-3",
@@ -1449,18 +1455,21 @@
       "source_title": null,
       "topic": "연차 계산과 두뇌 회전",
       "text": "올해 남아있는 연차 수량을 계산할 때만\n두뇌 회전 속도가 최고조에 달한다.\n\n어떻게든 주말에 붙여서 쉬겠다는 의지다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-07T06:43:10+09:00",
       "notify_at": "2026-09-07T20:00:00+09:00",
       "publish_at": "2026-09-07T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-07T20:15:08+09:00",
+      "auto_approve_at": "2026-09-07T23:15:06+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 155,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAObap6cvEgzxhDEfUOhCMprkOlQoDQAArgVaxsKF_hUAAFv_OOiRbLwAQADAgADeQADPQQ",
+      "tg_is_photo": true
     }
   ]
 }
