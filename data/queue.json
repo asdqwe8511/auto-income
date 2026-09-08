@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T13:53:59+09:00",
+  "updated_at": "2026-09-08T18:11:41+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -1600,15 +1600,15 @@
       "source_title": null,
       "topic": "금요일 오후 집중력",
       "text": "금요일 오후 세 시는 사람이 아니다.\n\n머리는 이미 퇴근했고\n몸만 의자에 얹혀서 모니터를 보고 있다.",
-      "status": "notified",
+      "status": "published",
       "created_at": "2026-09-08T06:45:30+09:00",
       "notify_at": "2026-09-08T12:00:00+09:00",
       "publish_at": "2026-09-08T12:00:00+09:00",
       "notified_at": "2026-09-08T13:53:53+09:00",
       "auto_approve_at": "2026-09-08T16:53:51+09:00",
-      "approved_at": null,
-      "published_at": null,
-      "post_url": null,
+      "approved_at": "2026-09-08T18:11:38+09:00",
+      "published_at": "2026-09-08T18:11:41+09:00",
+      "post_url": "(직접 올림)",
       "retry": 0,
       "error": null,
       "tg_message_id": 161,
