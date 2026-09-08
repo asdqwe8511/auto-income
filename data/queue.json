@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:11:41+09:00",
+  "updated_at": "2026-09-08T22:36:33+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -1687,18 +1687,21 @@
       "source_title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "topic": "카드 포인트를 활용한 세금 납부 방법",
       "text": "세금 낼 때 현금부터 쓰지 말고\n카드 포인트부터 조회해야 한다.\n\n카드사 통합 포인트를 조회해서\n세금 납부용으로 전환하면\n고정 지출을 바로 아낄 수 있다.\n\n위택스나 인터넷지로 결제 창에서\n포인트 납부 옵션만 누르면 된다.\n\n세금 내기 전에 숨은 포인트부터 찾아보자.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-08T06:45:30+09:00",
       "notify_at": "2026-09-08T20:00:00+09:00",
       "publish_at": "2026-09-08T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-08T22:36:29+09:00",
+      "auto_approve_at": "2026-09-09T01:36:27+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 164,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOkaqAPXeYwdW4Bo0HnB1aMYV3SNhYAAhcTaxt6zwFVQxI-hRl3ce8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-08-x-evening-2",
@@ -1713,18 +1716,21 @@
       "source_title": null,
       "topic": "신입 때 vs 지금",
       "text": "신입 때는 열정이 넘쳐서 문제였는데\n\n지금은 영혼이 없어서\n회사에 아무런 문제도 안 생긴다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-08T06:45:30+09:00",
       "notify_at": "2026-09-08T20:00:00+09:00",
       "publish_at": "2026-09-08T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-08T22:36:31+09:00",
+      "auto_approve_at": "2026-09-09T01:36:29+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 165,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOlaqAPX0dSUHHEWZNW9O9VOvHbJLEAAhgTaxt6zwFV8_YlUBJRm7sBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-08-x-evening-3",
@@ -1739,18 +1745,21 @@
       "source_title": null,
       "topic": "출근길 택시",
       "text": "아침에 타는 택시비는 그렇게 아까운데\n\n지각 직전에 타는 택시는\n돈으로 사는 유일한 구원이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-08T06:45:30+09:00",
       "notify_at": "2026-09-08T20:00:00+09:00",
       "publish_at": "2026-09-08T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-08T22:36:33+09:00",
+      "auto_approve_at": "2026-09-09T01:36:31+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 166,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOmaqAPYL9bnJ8o5ozjTkP0AAGv9328AAIZE2sbes8BVf0wr-AeuRa6AQADAgADeQADPQQ",
+      "tg_is_photo": true
     }
   ]
 }
