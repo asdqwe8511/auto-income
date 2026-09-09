@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:18:29+09:00",
+  "updated_at": "2026-09-09T12:57:33+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -1890,18 +1890,21 @@
       "source_title": null,
       "topic": "엑셀 수식 삽질",
       "text": "엑셀 수식 오류 하나 찾으려고\n두 시간 동안 모니터만 노려봤다.\n\n결국 괄호 하나 빠진 거였다.\n내 인생도 그렇게 쉬우면 좋겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-09T08:42:22+09:00",
       "notify_at": "2026-09-09T12:00:00+09:00",
       "publish_at": "2026-09-09T12:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-09T12:57:30+09:00",
+      "auto_approve_at": "2026-09-09T15:57:29+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 172,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOsaqDZKpF91ZSxnxXzZ8mBIXI5VOoAAhkSaxt6zwlVLqhxqap3BDIBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-09-x-lunch-2",
@@ -1916,18 +1919,21 @@
       "source_title": "한국인들 “다시는 안 간다”더니…요새 다시 북적인다는 스타벅스, 결제액 두 달째 반등",
       "topic": "스타벅스 결제액 반등",
       "text": "다시는 안 간다던 말이 무색하게\n스타벅스 결제액이 두 달째 반등했단다.\n서울경제 기사 제목을 보며 피식 웃었다.\n\n욕하면서도 결국 익숙한 문을 열고 마는\n직장인들의 출근길 루틴은\n쉽게 깨지지 않는 모양이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-09T08:42:22+09:00",
       "notify_at": "2026-09-09T12:00:00+09:00",
       "publish_at": "2026-09-09T12:25:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-09T12:57:31+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 173,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOtaqDZK_UELQKZ54DtG80FD7h49-gAAhoSaxt6zwlVfQ-Yq8QNKsIBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-09-x-lunch-3",
@@ -1942,18 +1948,21 @@
       "source_title": "나혼산 \"전현무 당일 결정 맞지만…제작진은 미리 항공권 발권\" 해명",
       "topic": "예능 나혼산 항공권 해명",
       "text": "출연자는 당일 즉흥 결정이었지만\n제작진은 항공권을 미리 끊어뒀다는 해명.\n아이뉴스24 기사를 보고 묘하게 납득했다.\n\n완벽한 돌발처럼 보이는 연출 뒤에도\n누군가의 철저한 사전 기안과\n법인카드 결제가 숨어 있는 게 일의 세계다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-09T08:42:22+09:00",
       "notify_at": "2026-09-09T12:00:00+09:00",
       "publish_at": "2026-09-09T12:50:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-09T12:57:33+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 174,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAOuaqDZLaCNQ2ahF9kXGZgMwOtl9VkAAhsSaxt6zwlVsFpD20VmgkgBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-09-x-evening-1",
