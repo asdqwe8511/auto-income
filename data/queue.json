@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T17:50:38+09:00",
+  "updated_at": "2026-09-10T22:09:31+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -2267,18 +2267,21 @@
       "source_title": "“500만원 썼더니 이자만 95만원”…현금서비스 쓴 10명 중 8명 ‘금리 20%’",
       "topic": "현금서비스 이자 줄이는 선결제 방법",
       "text": "급하게 현금서비스를 이용했다면\n결제일까지 기다리지 말고 선결제하자.\n\n카드사 앱의 이용 내역에서\n당일 선결제를 진행하면\n사용한 날짜만큼만 이자가 매겨진다.\n\n며칠만 먼저 갚아도 나가는 이자를\n확실히 줄일 수 있다.\n\n급전을 쓴 날 앱에서 바로 갚아두자.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-10T08:29:51+09:00",
       "notify_at": "2026-09-10T20:00:00+09:00",
       "publish_at": "2026-09-10T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-10T22:09:29+09:00",
+      "auto_approve_at": "2026-09-11T01:09:27+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 186,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAO6aqKsCcfPip5NWWaHwESIgyzkDU0AArsSaxvllBFVNvUrn0suqIUBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-10-x-evening-2",
@@ -2293,18 +2296,21 @@
       "source_title": null,
       "topic": "코레일 추석 예매",
       "text": "코레일 추석 예매 대기번호 5만 번을 받았다.\n내 진짜 고향은 이 회사 의자였나 보다.\n\n명절 연휴에도\n출근할 운명인가 싶다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-10T08:29:51+09:00",
       "notify_at": "2026-09-10T20:00:00+09:00",
       "publish_at": "2026-09-10T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-10T22:09:30+09:00",
+      "auto_approve_at": "2026-09-11T01:09:29+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 187,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAO7aqKsCgomE4TonCVymSerqlMS1fgAArwSaxvllBFVhwI15mGJ0m8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-10-x-evening-3",
@@ -2319,18 +2325,21 @@
       "source_title": null,
       "topic": "이직 준비",
       "text": "이직용 이력서 폴더를 열었다가\n마지막 수정일이 3년 전인 걸 보고 닫았다.\n\n이렇게 꾸준히 포기하는 것도\n내 유일한 재능이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-10T08:29:51+09:00",
       "notify_at": "2026-09-10T20:00:00+09:00",
       "publish_at": "2026-09-10T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-10T22:09:31+09:00",
+      "auto_approve_at": "2026-09-11T01:09:30+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 188,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAO8aqKsC1FrwZcfPi4L8UWLr3tgebMAAr0SaxvllBFVrux5is1cUBUBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     }
   ]
 }
