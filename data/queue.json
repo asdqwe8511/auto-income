@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:13:30+09:00",
+  "updated_at": "2026-09-12T21:10:46+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -2847,18 +2847,21 @@
       "source_title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "topic": "보유세 세액공제 확인법",
       "text": "오래 거주한 주택의 보유세를 아끼려면\n장기 보유 공제 누락부터 확인하자.\n\n홈택스나 세금 조회 서비스에서\n1세대 1주택 세액공제 항목을 열어보면\n\n보유 기간과 연령에 따른 공제가\n제대로 반영되지 않은 경우가 있다.\n\n세금 고지서가 나오기 전에\n공제 반영 여부를 미리 점검해두자.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-12T08:31:21+09:00",
       "notify_at": "2026-09-12T20:00:00+09:00",
       "publish_at": "2026-09-12T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-12T21:10:44+09:00",
+      "auto_approve_at": "2026-09-13T00:10:42+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 208,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPQaqVBQ5KRrJD-MZQPsotd6_MESHwAAmMTaxsalylVL5RhUS7_r0IBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-12-x-evening-2",
@@ -2873,18 +2876,21 @@
       "source_title": null,
       "topic": "연차별 업무 태도",
       "text": "연차가 쌓일수록 일을 잘하는 게 아니라\n미안하다는 말만 자연스러워진다.\n\n영혼 없이 고개 숙이는 속도만\n지독하게 빨라졌다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-12T08:31:21+09:00",
       "notify_at": "2026-09-12T20:00:00+09:00",
       "publish_at": "2026-09-12T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-12T21:10:45+09:00",
+      "auto_approve_at": "2026-09-13T00:10:44+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 209,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPRaqVBRXoV_SpWgPKecWLSd62rsucAAmQTaxsalylVrviwzD4_ab8BAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-12-x-evening-3",
@@ -2899,18 +2905,21 @@
       "source_title": null,
       "topic": "연차 결재 눈치",
       "text": "내 연차 내가 쓰는데 눈치가 보인다.\n\n죄지은 사람처럼 사유 적어두고\n결재창만 하루 종일 노려보고 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-12T08:31:21+09:00",
       "notify_at": "2026-09-12T20:00:00+09:00",
       "publish_at": "2026-09-12T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-12T21:10:46+09:00",
+      "auto_approve_at": "2026-09-13T00:10:45+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 210,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPSaqVBRk2iQOuNOCfhFDFuaNOYrasAAmUTaxsalylVO-a-wfHJKkcBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     }
   ]
 }
