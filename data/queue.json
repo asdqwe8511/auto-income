@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:26:18+09:00",
+  "updated_at": "2026-09-13T22:52:11+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -3137,18 +3137,21 @@
       "source_title": "“500만원 썼더니 이자만 95만원”…현금서비스 쓴 10명 중 8명 ‘금리 20%’",
       "topic": "카드 리볼빙 서비스 해지하기",
       "text": "자신도 모르게 나가는 고금리 이자를 막으려면\n카드 리볼빙 가입 여부부터 확인하자.\n\n카드 발급할 때 무심코 동의해서\n알게 모르게 서비스가 켜진 경우가 많다.\n\n카드사 앱의 결제 관리 메뉴에서\n이월결제 서비스 가입 여부를 조회하고\n쓰지 않는 항목은 바로 해지해두자.\n\n작은 이월이 큰 이자로 늘어나는 상황을\n미리 차단해 둘 수 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-13T08:16:03+09:00",
       "notify_at": "2026-09-13T20:00:00+09:00",
       "publish_at": "2026-09-13T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-13T22:52:09+09:00",
+      "auto_approve_at": "2026-09-14T01:52:07+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 219,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPbaqaqiB6kfmhA2HY_W1RoDiv17FoAAgEUaxv-3TBVOzqQ0uK8xtABAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-13-x-evening-2",
@@ -3163,18 +3166,21 @@
       "source_title": null,
       "topic": "회식 자리 생존법",
       "text": "회식 자리에서 제일 바쁜 건\n내 손과 술잔이다.\n\n영혼은 이미 집에 갔는데\n고개만 열심히 끄덕인다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-13T08:16:03+09:00",
       "notify_at": "2026-09-13T20:00:00+09:00",
       "publish_at": "2026-09-13T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-13T22:52:10+09:00",
+      "auto_approve_at": "2026-09-14T01:52:09+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 220,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPcaqaqimzBa4SHWnPs7Loff92HXs4AAgMUaxv-3TBVByg_VzWQ1osBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-13-x-evening-3",
@@ -3189,18 +3195,21 @@
       "source_title": null,
       "topic": "사내 메신저 읽씹",
       "text": "사내 메신저 알림을 보자마자\n모른 척 창을 내렸다.\n\n적당히 넘기는 기술만\n연차가 쌓일수록 늘어간다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-13T08:16:03+09:00",
       "notify_at": "2026-09-13T20:00:00+09:00",
       "publish_at": "2026-09-13T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-13T22:52:11+09:00",
+      "auto_approve_at": "2026-09-14T01:52:10+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 221,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAPdaqaqi3rPqdOPQbfenAPm1SkVgqQAAgQUaxv-3TBVBqeYKO6AHycBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     }
   ]
 }
