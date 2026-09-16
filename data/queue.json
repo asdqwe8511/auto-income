@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T10:35:00+09:00",
+  "updated_at": "2026-09-16T13:08:27+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -3911,18 +3911,21 @@
       "source_title": null,
       "topic": "팀장님 카톡",
       "text": "팀장님 카톡에 숫자 1이 사라졌다.\n\n모른 척하고 넘어가기엔\n이미 너무 늦었다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-16T08:40:16+09:00",
       "notify_at": "2026-09-16T12:00:00+09:00",
       "publish_at": "2026-09-16T12:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-16T13:08:24+09:00",
+      "auto_approve_at": "2026-09-16T16:08:22+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 246,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAP2aqoWNyWA_KLSFeIKmpWL9LTZPIkAAoQSaxuYb1BVgokzEu8XNCUBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-16-x-lunch-2",
@@ -3937,18 +3940,21 @@
       "source_title": "한국인들 “다시는 안 간다”더니…요새 다시 북적인다는 스타벅스, 결제액 두 달째 반등",
       "topic": "스타벅스 결제액 반등",
       "text": "안 간다던 말이 결국 무색해진 모양이다.\n\n서울경제 보도로는 스타벅스 결제액이\n두 달째 반등하며 다시 북적인다고 한다.\n\n욕하면서도 결국 익숙한 장소를\n다시 찾게 되는 게 사람 마음이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-16T08:40:16+09:00",
       "notify_at": "2026-09-16T12:00:00+09:00",
       "publish_at": "2026-09-16T12:25:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-16T13:08:25+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 247,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAP3aqoWOcmNtXGmV3WLRomia0NCa1EAAoUSaxuYb1BV1Z6ebIXLshABAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-16-x-lunch-3",
@@ -3963,18 +3969,21 @@
       "source_title": "“불륜? 너무 파격적” 욕먹을 줄 알았는데…초유의 일 ‘1000만 돌파’, 살아나는 쿠팡",
       "topic": "쿠팡 파격 콘텐츠 1000만 돌파",
       "text": "파격적인 소재가 오히려 대박을 터뜨렸다.\n\n헤럴드경제 기사를 보니 불륜 다룬 콘텐츠로\n1000만을 돌파하며 반응이 뜨겁다고 한다.\n\n비난받을 줄 알았던 자극적 이야기에\n결국 사람들이 몰려든 셈이다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-16T08:40:16+09:00",
       "notify_at": "2026-09-16T12:00:00+09:00",
       "publish_at": "2026-09-16T12:50:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-16T13:08:27+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 248,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAP4aqoWO3noFW0bT20TQRRTczA2Or8AAoYSaxuYb1BVxrcKpbXTf4QBAAMCAAN5AAM9BA",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-16-x-evening-1",
