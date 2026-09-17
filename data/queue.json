@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T18:28:31+09:00",
+  "updated_at": "2026-09-17T23:24:57+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -4288,18 +4288,21 @@
       "source_title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "topic": "보유세 지출 부담 줄이는 카드 활용법",
       "text": "주택 관련 세금 부담을 줄이려면\n신용카드사의 납부 혜택부터 미리 확인해 보자.\n\n세금 납부 철이 되면 주요 카드사에서\n무이자 할부나 결제 혜택을 제공한다.\n\n지자체 세금 납부 사이트에서 혜택을 비교하고\n목돈이 한 번에 나가는 부담을 나누는 것이 좋다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-17T08:48:12+09:00",
       "notify_at": "2026-09-17T20:00:00+09:00",
       "publish_at": "2026-09-17T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-17T23:24:54+09:00",
+      "auto_approve_at": "2026-09-18T02:24:53+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 260,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBBGqr-Da6ljUL7w8hp8UQHx9y6cLaAALIE2sbnL1gVRPkQaGrnZ5YAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-17-x-evening-2",
@@ -4314,18 +4317,21 @@
       "source_title": null,
       "topic": "세액공제 미리보기와 자조",
       "text": "연말정산 세액공제 미리보기 열어봤다가\n기분만 더 울적해졌다.\n\n돈은 분명 열심히 썼는데\n돌려받을 세금은 어디 갔는지 모르겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-17T08:48:12+09:00",
       "notify_at": "2026-09-17T20:00:00+09:00",
       "publish_at": "2026-09-17T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-17T23:24:56+09:00",
+      "auto_approve_at": "2026-09-18T02:24:54+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 261,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBBWqr-DezFTH0Xk9yHsdaeuRWQS7IAALJE2sbnL1gVezdF23niBKkAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-17-x-evening-3",
@@ -4340,18 +4346,21 @@
       "source_title": null,
       "topic": "이직 생각과 야구 경기",
       "text": "퇴근길에 야구 하이라이트를 보는데\n노시환 홈런보다 내 이직이 더 시급하다.\n\n남들은 시원하게 담장을 넘기는데\n나는 오늘도 모니터 앞에 갇혀있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-17T08:48:12+09:00",
       "notify_at": "2026-09-17T20:00:00+09:00",
       "publish_at": "2026-09-17T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-17T23:24:57+09:00",
+      "auto_approve_at": "2026-09-18T02:24:56+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 262,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBBmqr-DnnBqf8bKX24GTEQsoOZnXpAALKE2sbnL1gVfkH3fXGEYEVAQADAgADeQADPQQ",
+      "tg_is_photo": true
     }
   ]
 }
