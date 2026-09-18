@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:25:30+09:00",
+  "updated_at": "2026-09-18T12:59:17+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -4491,18 +4491,21 @@
       "source_title": null,
       "topic": "연차 쓰기 직전의 눈치",
       "text": "연차 신청서 제출 버튼 누르는 데\n결제 승인보다 더 큰 용기가 필요하다.\n\n내 연차 내가 쓰는데\n왜 범죄 저지르는 기분이 드는지 모르겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T12:00:00+09:00",
       "publish_at": "2026-09-18T12:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-18T12:59:14+09:00",
+      "auto_approve_at": "2026-09-18T15:59:12+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 268,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBDGqstxHDMECKpkkmDwY8royVw_n-AALLD2sbnL1oVRqDis4OORH5AQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-18-x-lunch-2",
@@ -4517,18 +4520,21 @@
       "source_title": "나혼산 \"전현무 당일 결정 맞지만…제작진은 미리 항공권 발권\" 해명",
       "topic": "나혼산 제작진의 항공권 미리 발권 해명",
       "text": "예능 속 즉흥 여행에도 다 계획이 있었다.\n아이뉴스24 기사를 보니 제작진이\n\n출연자 당일 결정과 별개로\n미리 항공권을 끊어둔 것이라고 해명했단다.\n\n리얼리티 방송이라도 최소한의\n안전장치는 있어야 굴러가는 법이다.\n\n어쩌면 우리네 회사 생활도\n비슷한 방식으로 돌아가는지도 모르겠다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T12:00:00+09:00",
       "publish_at": "2026-09-18T12:25:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-18T12:59:15+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 269,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBDWqstxOTbpmIGzmY7YW9RShX6xf3AALMD2sbnL1oVdzdm53opKBIAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-18-x-lunch-3",
@@ -4543,18 +4549,21 @@
       "source_title": "“불륜? 너무 파격적” 욕먹을 줄 알았는데…초유의 일 ‘1000만 돌파’, 살아나는 쿠팡",
       "topic": "파격적 소재 콘텐츠 1000만 돌파 및 쿠팡 소식",
       "text": "파격적인 소재로 우려를 모았던 콘텐츠가\n1000만을 돌파하며 반응을 얻고 있다.\n\n헤럴드경제 보도를 보니 욕먹을 줄 알았던\n시도가 의외의 성과로 이어졌다고 한다.\n\n대중의 시선을 사로잡는 건 역시\n뻔한 안전함보다 낯선 파격인 걸까.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T12:00:00+09:00",
       "publish_at": "2026-09-18T12:50:00+09:00",
-      "notified_at": null,
+      "notified_at": "2026-09-18T12:59:17+09:00",
       "auto_approve_at": null,
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 270,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBDmqstxTo9sgDbPizpSv022eAOBumAALND2sbnL1oVdmQOHaDX0V5AQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-18-x-evening-1",
