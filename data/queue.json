@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:55:08+09:00",
+  "updated_at": "2026-09-18T22:15:14+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -4578,18 +4578,21 @@
       "source_title": "“500만원 썼더니 이자만 95만원”…현금서비스 쓴 10명 중 8명 ‘금리 20%’",
       "topic": "카드 결제일 사전 알림 설정으로 단기대출 방지하기",
       "text": "고금리 단기대출을 방지하려면\n카드 결제일 이틀 전 알림부터 설정하자.\n\n통장 잔고 부족으로 급하게 대출을 쓰지 않게\n금융 앱에서 잔액 부족 알림을 켜두면\n\n결제 대금을 미리 채워 넣어서\n고금리 이자가 나가는 상황을 막을 수 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T20:00:00+09:00",
       "publish_at": "2026-09-18T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-18T22:15:11+09:00",
+      "auto_approve_at": "2026-09-19T01:15:09+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 271,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBD2qtOV-ynSgx7Q1RDd4i8uD4xro5AAJxEWsbnL1oVctf7D9zrOGMAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-18-x-evening-2",
@@ -4604,18 +4607,21 @@
       "source_title": null,
       "topic": "퇴근 직전 업무 요청",
       "text": "오늘 날씨 참 좋다며 웃던 팀장님이\n퇴근 3분 전에 파일 하나를 보내왔다.\n\n주말 날씨까지 같이 나빠지는\n기분이 들기 시작했다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T20:00:00+09:00",
       "publish_at": "2026-09-18T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-18T22:15:13+09:00",
+      "auto_approve_at": "2026-09-19T01:15:11+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 272,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBEGqtOWDHNPL6Q1XrvB9BoeGHzmQ3AAJyEWsbnL1oVX8pBKQ5fSHUAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-18-x-evening-3",
@@ -4630,18 +4636,21 @@
       "source_title": null,
       "topic": "이직 생각나는 순간",
       "text": "이직 운을 점치기 전에\n내 직무 유효기간부터 확인해야겠다.\n\n경력직 채용 공고를 볼수록\n내 경력이 제일 수상해 보인다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-18T08:39:46+09:00",
       "notify_at": "2026-09-18T20:00:00+09:00",
       "publish_at": "2026-09-18T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-18T22:15:14+09:00",
+      "auto_approve_at": "2026-09-19T01:15:13+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 273,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBEWqtOWLIzhnuy4kDj3iiP_-umC3EAAJ0EWsbnL1oVSY_1xnjCmaxAQADAgADeQADPQQ",
+      "tg_is_photo": true
     }
   ]
 }
