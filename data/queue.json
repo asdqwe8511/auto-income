@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:42:12+09:00",
+  "updated_at": "2026-09-19T21:41:48+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -4868,18 +4868,21 @@
       "source_title": "한집에서 20년 살았는데…\"보유세만 1억 내야할 판\" 한숨 [고정삼의 절세GPT]",
       "topic": "보유세 과세기준일 잔금 조정",
       "text": "주택 관련 세금 부담을 줄이려면 과세기준일 전에\n잔금 지급일을 맞추는 것이 핵심이다.\n\n해당 연도 세금은 과세기준일 소유자에게 부과되므로\n매매 계약 시 잔금일을 기준일 이후로 조정하면\n\n한 해 세금이 통째로 부과되는 상황을\n사전에 정리하고 아낄 수 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-19T08:37:10+09:00",
       "notify_at": "2026-09-19T20:00:00+09:00",
       "publish_at": "2026-09-19T20:00:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-19T21:41:45+09:00",
+      "auto_approve_at": "2026-09-20T00:41:43+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 282,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBGmqugwlEm76sP-upc3lZQuuMq83dAAIfFGsbq7BxVc4C1peKclHnAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-19-x-evening-2",
@@ -4894,18 +4897,21 @@
       "source_title": null,
       "topic": "엑셀 수식 오류와 VIX 지수",
       "text": "엑셀 수식 하나 꼬였다고\n내 마음속 vix 지수가 폭등한다.\n\n오후 내내 잡고 있던 수식이\n결국 원본 파일까지 삼켜버렸다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-19T08:37:10+09:00",
       "notify_at": "2026-09-19T20:00:00+09:00",
       "publish_at": "2026-09-19T20:25:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-19T21:41:47+09:00",
+      "auto_approve_at": "2026-09-20T00:41:45+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 283,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBG2qugwoOP_rlro7yTEcd4nZ_Bz79AAIgFGsbq7BxVRZHE3b0qg2EAQADAgADeQADPQQ",
+      "tg_is_photo": true
     },
     {
       "id": "2026-09-19-x-evening-3",
@@ -4920,18 +4926,21 @@
       "source_title": null,
       "topic": "경조사비 모임과 통장 잔고",
       "text": "강남에서 청첩장 모임 세 번 하고 나니\n내 통장에 가을이 너무 일찍 왔다.\n\n단풍 구경 갈 필요도 없이\n잔고가 빨갛게 물들어 있다.",
-      "status": "draft",
+      "status": "notified",
       "created_at": "2026-09-19T08:37:10+09:00",
       "notify_at": "2026-09-19T20:00:00+09:00",
       "publish_at": "2026-09-19T20:50:00+09:00",
-      "notified_at": null,
-      "auto_approve_at": null,
+      "notified_at": "2026-09-19T21:41:48+09:00",
+      "auto_approve_at": "2026-09-20T00:41:47+09:00",
       "approved_at": null,
       "published_at": null,
       "post_url": null,
       "retry": 0,
       "error": null,
-      "tg_message_id": null
+      "tg_message_id": 284,
+      "media_kind": "auto",
+      "media_file_id": "AgACAgUAAxkDAAIBHGqugwx4pn4k8bXjB-8Q06bEq8EsAAIhFGsbq7BxVclKBKRM2ruoAQADAgADeQADPQQ",
+      "tg_is_photo": true
     }
   ]
 }
