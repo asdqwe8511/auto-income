@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:14:42+09:00",
+  "updated_at": "2026-09-20T18:18:13+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -5071,15 +5071,15 @@
       "source_title": null,
       "topic": "회식 자리 생존법",
       "text": "회식에서 제일 안전한 자리는 없다.\n\n팀장님과 제일 먼 구석으로 피했더니\n하필 집게랑 가위가 놓인 자리다.\n\n고기만 굽다 보니 내가 직원인지\n고깃집 알바인지 헷갈리기 시작한다.",
-      "status": "notified",
+      "status": "published",
       "created_at": "2026-09-20T08:28:49+09:00",
       "notify_at": "2026-09-20T12:00:00+09:00",
       "publish_at": "2026-09-20T12:00:00+09:00",
       "notified_at": "2026-09-20T13:14:36+09:00",
       "auto_approve_at": "2026-09-20T16:14:35+09:00",
-      "approved_at": null,
-      "published_at": null,
-      "post_url": null,
+      "approved_at": "2026-09-20T18:18:10+09:00",
+      "published_at": "2026-09-20T18:18:13+09:00",
+      "post_url": "(직접 올림)",
       "retry": 0,
       "error": null,
       "tg_message_id": 290,
