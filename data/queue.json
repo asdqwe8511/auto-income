@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:12:23+09:00",
+  "updated_at": "2026-09-21T18:54:57+09:00",
   "items": [
     {
       "id": "2026-09-03-x-morning-1",
@@ -5361,15 +5361,15 @@
       "source_title": null,
       "topic": "점심 메뉴 선택의 어려움",
       "text": "점심 메뉴 고르는 게\n보고서 작성보다 훨씬 어렵다.\n\n팀원들 다 상관없다면서\n내가 말하는 메뉴는 다 쳐낸다.",
-      "status": "notified",
+      "status": "published",
       "created_at": "2026-09-21T08:32:28+09:00",
       "notify_at": "2026-09-21T12:00:00+09:00",
       "publish_at": "2026-09-21T12:00:00+09:00",
       "notified_at": "2026-09-21T13:12:17+09:00",
       "auto_approve_at": "2026-09-21T16:12:15+09:00",
-      "approved_at": null,
-      "published_at": null,
-      "post_url": null,
+      "approved_at": "2026-09-21T18:54:55+09:00",
+      "published_at": "2026-09-21T18:54:57+09:00",
+      "post_url": "(직접 올림)",
       "retry": 0,
       "error": null,
       "tg_message_id": 301,
